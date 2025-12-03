@@ -2,8 +2,8 @@
 title=Double-Shift
 desc=Double-shift and double-ctrl hotkeys work similar to JetBrains Intellij "Search Everywhere"
 type=cudatext-plugin
-subdir=foss-cudatext-plugin-doubleshift
-homepage=https://github.com/dimon40001/foss-cudatext-plugin-doubleshift
+subdir=cuda_double_shift
+homepage=https://github.com/CudaText-addons/cuda_double_shift
 
 [item10]
 section=events
