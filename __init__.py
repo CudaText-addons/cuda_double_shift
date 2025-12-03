@@ -14,7 +14,7 @@ TEN_MINUTES = 600
 
 fn_config = os.path.join(app_path(APP_DIR_SETTINGS), 'plugins.ini')
 
-delay_ms = 200
+delay_ms = 400
 shift_command_id = cmds.cmd_DialogCommands
 shift_command_text = ""
 ctrl_command_id = cmds.cmd_DialogCommands
