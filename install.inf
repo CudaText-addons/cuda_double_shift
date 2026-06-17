@@ -1,6 +1,6 @@
 [info]
 title=Double-Shift
-desc=Double-shift and double-ctrl hotkeys work similar to JetBrains Intellij "Search Everywhere"
+desc=Allows to map double-Shift and double-Ctrl hotkeys to call any CudaText commands, like in JetBrains IntelliJ "Search Everywhere"
 type=cudatext-plugin
 subdir=cuda_double_shift
 homepage=https://github.com/CudaText-addons/cuda_double_shift
