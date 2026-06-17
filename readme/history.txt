@@ -1,2 +1,5 @@
-2025-11-30
+2026.06.17
+- fix: on_focus event must reset the current internal state to avoid problems (by Alexey T.)
+
+2025.11.30
 initial version

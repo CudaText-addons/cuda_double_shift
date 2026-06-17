@@ -112,3 +112,7 @@ class Command:
                     ed.cmd(ctrl_command_id, ctrl_command_text)
         else:
             first_release_happened = True
+
+    def on_focus(self, ed_self):
+        self.reset_state()
+        # print('Double-Shift: focus changed')
